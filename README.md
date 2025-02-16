@@ -98,8 +98,6 @@ The code processes audio in several stages:
 
 ---
 
-## Assumptions
-
 - The input audio is in `.wav` format.
 - The audio file is of relatively good quality. If there is significant background noise or distortion, additional noise reduction techniques might be needed.
 - Google Speech Recognition API works without issues (requires an internet connection).
